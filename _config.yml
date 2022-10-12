@@ -1,3 +1,6 @@
-﻿theme: jekyll-theme-minimal
-title: Quentin Vorchak's Portfolio Page
+﻿title: Quentin Vorchak's Portfolio Page
 description: A portfolio site for random projects made during my learning process.
+
+markdown: kramdown
+remote_theme: benbalter/retlab
+theme: minima
